@@ -5,7 +5,7 @@ import shutil
 from pathlib import Path
 
 
-DEFAULT_INPUT_FRAME_DIR = Path("/Volumes/PortableSSD/tutrtletest/turtlepond_2026-06-29_112336")
+DEFAULT_INPUT_FRAME_DIR = Path("/Volumes/PortableSSD/tutrtletest/turtlepond_2026-06-29_111037")
 DEFAULT_OUTPUT_FRAME_DIR = DEFAULT_INPUT_FRAME_DIR / "frames"
 DEFAULT_PNG_FOLDER_NAME = "frames"
 
